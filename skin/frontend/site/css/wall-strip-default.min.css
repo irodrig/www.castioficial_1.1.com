@@ -1,0 +1,91 @@
+.fpls-wall-strip-default .fpls-feed-container {
+ position:relative
+}
+.fpls-wall-strip-default .fpls-box {
+ float:left;
+ width:auto;
+ height:100%;
+ transition:opacity .3s;
+ -ms-transition:opacity .3s;
+ -webkit-transition:opacity .3s
+}
+.fpls-wall-strip-default .fpls-box-inner {
+ width:auto;
+ height:100%
+}
+.fpls-wall-strip-default .fpls-box-image {
+ height:100%
+}
+.fpls-wall-strip-default .fpls-box-image img {
+ height:100%;
+ width:auto
+}
+.fpls-wall-strip-default {
+ position:relative
+}
+.fpls-wall-strip-default .fpls-loading {
+ position:absolute;
+ bottom:50%;
+ margin-bottom:-25px
+}
+.fpls-wall-strip-default .fpls-strip-content {
+ position:relative
+}
+.fpls-wall-strip-default .fpls-strip-container {
+ position:relative
+}
+.fpls-wall-strip-default .fpls-strip-stripwrapper {
+ position:relative;
+ overflow:hidden;
+ width:100%
+}
+.fpls-wall-strip-default .fpls-strip-strip {
+ transition:left .6s,transform .6s;
+ -ms-transition:left .6s,transform .6s;
+ -moz-transition:left .6s,transform .6s;
+ -webkit-transition:left .6s,transform .6s
+}
+.fpls-wall-strip-default .fpls-strip-strip.fpls-dragging {
+ transition:left .6s,transform 0s;
+ -ms-transition:left .6s,transform 0s;
+ -moz-transition:left .6s,transform 0s;
+ -webkit-transition:left .6s,transform 0s
+}
+.fpls-wall-strip-default .fpls-strip-next,.fpls-wall-strip-default .fpls-strip-prev {
+ position:absolute;
+ top:50%;
+ margin-top:-30px;
+ width:60px;
+ height:60px;
+ opacity:.9;
+ cursor:pointer;
+ background-repeat:no-repeat;
+ background-position:50% 50%;
+ background-color:#fff;
+ -webkit-user-select:none;
+ -moz-user-select:none;
+ -ms-user-select:none;
+ transition:opacity .3s;
+ -ms-transition:opacity .3s;
+ -moz-transition:opacity .3s;
+ -webkit-transition:opacity .3s
+}
+@media screen and (max-width:768px) {
+ .fpls-wall-strip-default .fpls-strip-next,.fpls-wall-strip-default .fpls-strip-prev {
+  width:40px;
+  height:40px;
+  margin-top:-20px;
+  background-size:80%
+ }
+}
+.fpls-wall-strip-default .fpls-strip-prev {
+ left:0;
+ background-image:url(../images/popup-left.svg)
+}
+.fpls-wall-strip-default .fpls-strip-next {
+ right:0;
+ background-image:url(../images/popup-right.svg)
+}
+.fpls-wall-strip-default .fpls-disabled {
+ opacity:.1
+}
