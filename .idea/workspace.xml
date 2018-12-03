@@ -2,402 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="253efb4b-13e3-4348-924e-a8c27ef17e32" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/Productos/img/gallery/_MG_0447-Editar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/Productos/img/gallery/banner_annepants.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/Productos/img/gallery/banner_annetop.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/Productos/img/gallery/banner_bagheraBlouse.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/Productos/img/icons/coffe.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/Productos/img/icons/coffee.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/Productos/img/logo/almacen_concepts.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/Productos/img/logo/mapConceptStore.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/cssxfire.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/irodrig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/typescript-compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aboutus.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boutique.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/campaing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/Productos/all_cart.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/Productos/cat_coffebox.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/Productos/cat_dress.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/Productos/cat_newarrivals.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/Productos/cat_pants.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/Productos/cat_shirt.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/Productos/cat_short.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/Productos/cat_skirt.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/Productos/cat_summer-essentials.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/Productos/cat_top.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/Productos/cat_tshirt.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/catalogsearch/ajax/suggest/default.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/catalogsearch/results/default.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/customer/acount/create.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/customer/acount/default.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/customer/acount/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/js/jquery-1.9.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/js/jssor.slider.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/js/livestory-castioficial.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/js/wallgroup-default.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/storelocator/default.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contacts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/healthyfashion.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instashop.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legal_area.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/0a7e89a22b186a4dc8209e715477eb12.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/4da006f367a2c8db6c3a03d3dd306e25.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/dcaade934498593af5d8fe1c476d3480.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/jquery-1.11.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/jquery-1.9.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/jquery.touchSwipe.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/jssor.player.ytiframe.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/jssor.slider.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/responsive_bootstrap_carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/returns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shipping.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/site/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/site/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/site/css/video_carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tsconfig.json" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/accessories.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/accessories/backpacks.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/accessories/headwear.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/accessories/iphone-cases.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/accessories/travel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/castioficial.cloudfront.net/clothing/hoodies.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/castioficial.cloudfront.net/clothing/jackets.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/castioficial.cloudfront.net/clothing/lifestyle.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/castioficial.cloudfront.net/clothing/pants-shorts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/castioficial.cloudfront.net/clothing/sweaters.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/castioficial.cloudfront.net/clothing/swimwear.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/castioficial.cloudfront.net/clothing/t-shirts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/castioficial.cloudfront.net/clothing/underwear-intimates.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/checkout/cart/default.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clothing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/1920/c-navigator-horizontal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/1920/c-phone-horizontal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/1920/c-slide-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/1920/c-slide-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/1920/hand.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/001.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/002.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/003.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/004.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/005.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/006.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/007.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/008.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/009.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/010.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/011.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/012.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/013.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/014.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/015.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/016.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/017.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/018.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/019.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/020.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/021.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/022.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/023.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/024.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/025.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/026.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/200x150/027.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/600x240/001.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/600x240/013.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/640x960/001.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/640x960/002.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/640x960/003.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/640x960/004.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/640x960/005.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/640x960/006.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/640x960/007.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/640x960/008.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/001.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/002.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/003.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/004-s99x66.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/004.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/005-s99x66.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/005.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/006-s99x66.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/006.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/007-s99x66.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/007.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/008-s99x66.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/008.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/009-s99x66.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/009.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/010-s99x66.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/010.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/011.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/012.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/013-s99x66.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/013.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/014-s99x66.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/014.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/015-s99x66.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/015.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/016-s99x66.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/016.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/017-s99x66.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/017.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/018-s99x66.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/018.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/019.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/020.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/021.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/720x480/022.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/960x640/001.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/960x640/002.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/960x640/003.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/960x640/004.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/960x640/005.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/960x640/006.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/960x640/007.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/960x640/008.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/001.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/002.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/003.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/004.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/005.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/006.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/007.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/008.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/009.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/010.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/011.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/012.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/013.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/014.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/015.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/016.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/017.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/018.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/019.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/020.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/021.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/022.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/023.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/024.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/025.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/026.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/027.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/028.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/029.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/030.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/031-s190x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/031.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/032-s190x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/032.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/033-s190x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/033.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/034-s190x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/034.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/035-s190x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/035.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/036-s190x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/036.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/037-s190x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/037.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/038-s190x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/038.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/039-s190x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/039.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/040-s190x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/040.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/041.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/042.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/043.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/044.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/045.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/046.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/047.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/048.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/049.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/050.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/051.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery/980x380/052.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/01/arrow-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/01/arrow-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/01/butterfly-blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/01/butterfly-dark-yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/01/butterfly-light-yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/01/butterfly-red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/01/dot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/01/layer-blurred-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/01/main.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/02/circle-hollow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/02/circle-solid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/02/hand.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/02/mock-ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/02/mock-laptop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/02/mock-pc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/02/mock-phone-slider-flat.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/02/mock-phone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/02/swipe-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/03/android.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/03/chrome.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/03/circle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/03/edge.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/03/firefox.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/03/hexagon-hollow-big.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/03/hexagon-hollow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/03/hexagon-solid-yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/03/hexagon-solid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/03/ie.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/03/ios.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/03/opera.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/03/safari.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/03/windows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/present/04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery-1.9.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jssor.slider.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/kid.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/kid/junior.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/kid/kid.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legal-area/cookies/default.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legal-area/default.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legal-area/returns/default.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legal-area/shipping/default.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shoes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shoes/boots-booties.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shoes/espadrillas.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shoes/heels.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shoes/mules-sabot.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shoes/slip-on.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shoes/slippers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shoes/sneakers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/apple-icon-57x57.fw.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/casti.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/favicon-16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sneakers-argento-one-star-platform-562027c.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sneakers-oro-one-star-platform-562026c.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/specials/chiara-ferragni-x-converse.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/specials/logomania.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/specials/summer-essentials.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stop-fakes/default.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wishlist/default.htm" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cfcfrontend/popup/newsletter/default.htm" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/cfcfrontend/popup/newsletter/default.htm" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cfcfrontend/popup/newsletterauto/default.htm" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/cfcfrontend/popup/newsletterauto/default.htm" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/contacts/default.htm" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/contacts/default.htm" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/countries/default.htm" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/countries/default.htm" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/countries/index/change/country/DZ/websiteid/11/locale/en_US/default.htm" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/countries/index/change/country/DZ/websiteid/11/locale/en_US/default.htm" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/instagram-board/default.htm" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/instagram-board/default.htm" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/js/_notes/dwsync.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/specials.html" afterPath="$PROJECT_DIR$/skin/frontend/site/css/animate.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/specials/activewear.html" afterPath="$PROJECT_DIR$/skin/frontend/icons/css/icons.fallback.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/specials/fluo.html" afterPath="$PROJECT_DIR$/skin/frontend/icons/css/icons.data.png.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/specials/red-collection.html" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/cfcfrontend/popup/newsletter/default.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/svg/loading/static-svg/ball-triangle.svg" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/svg/loading/static-svg/ball-triangle.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/svg/loading/static-svg/circles.svg" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/svg/loading/static-svg/circles.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/svg/loading/static-svg/double-tail-spin.svg" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/svg/loading/static-svg/double-tail-spin.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/svg/loading/static-svg/oval.svg" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/svg/loading/static-svg/oval.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/svg/loading/static-svg/spin.svg" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/svg/loading/static-svg/spin.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/svg/loading/static-svg/tail-spin.svg" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/svg/loading/static-svg/tail-spin.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/gallery/1300x500/_MG_3887-Editar.jpg" afterPath="$PROJECT_DIR$/img/gallery/1300x500/_MG_3887-Editar.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/gallery/1300x500/_MG_3944-Editar.jpg" afterPath="$PROJECT_DIR$/img/gallery/1300x500/_MG_3944-Editar.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/android-chrome-192x192.png" afterPath="$PROJECT_DIR$/skin/frontend/images/favicons/android-chrome-192x192.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/android-chrome-256x256.png" afterPath="$PROJECT_DIR$/skin/frontend/images/favicons/android-chrome-256x256.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/android-icon-144x144.png" afterPath="$PROJECT_DIR$/skin/frontend/images/favicons/android-icon-144x144.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/android-icon-192x192.png" afterPath="$PROJECT_DIR$/skin/frontend/images/favicons/android-icon-192x192.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/android-icon-36x36.png" afterPath="$PROJECT_DIR$/skin/frontend/images/favicons/android-icon-36x36.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/android-icon-48x48.png" afterPath="$PROJECT_DIR$/skin/frontend/images/favicons/android-icon-48x48.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/android-icon-72x72.png" afterPath="$PROJECT_DIR$/skin/frontend/images/favicons/android-icon-72x72.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/android-icon-96x96.png" afterPath="$PROJECT_DIR$/skin/frontend/images/favicons/android-icon-96x96.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/apple-icon-114x114.png" afterPath="$PROJECT_DIR$/skin/frontend/images/favicons/apple-icon-114x114.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/apple-icon-120x120.png" afterPath="$PROJECT_DIR$/skin/frontend/images/favicons/apple-icon-120x120.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/apple-icon-144x144.png" afterPath="$PROJECT_DIR$/skin/frontend/images/favicons/apple-icon-144x144.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/apple-icon-152x152.png" afterPath="$PROJECT_DIR$/skin/frontend/images/favicons/apple-icon-152x152.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/apple-icon-57x57.png" afterPath="$PROJECT_DIR$/skin/frontend/images/favicons/apple-icon-57x57.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/apple-icon-60x60.png" afterPath="$PROJECT_DIR$/skin/frontend/images/favicons/apple-icon-60x60.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/apple-icon-72x72.png" afterPath="$PROJECT_DIR$/skin/frontend/images/favicons/apple-icon-72x72.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/apple-icon-76x76.png" afterPath="$PROJECT_DIR$/skin/frontend/images/favicons/apple-icon-76x76.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/apple-icon.png" afterPath="$PROJECT_DIR$/skin/frontend/images/favicons/apple-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/apple-touch-icon.png" afterPath="$PROJECT_DIR$/skin/frontend/images/favicons/apple-touch-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/favicon-32x32.png" afterPath="$PROJECT_DIR$/skin/frontend/images/favicons/favicon-32x32.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/favicon-96x96.png" afterPath="$PROJECT_DIR$/skin/frontend/images/favicons/favicon-96x96.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/favicon.ico" afterPath="$PROJECT_DIR$/skin/frontend/images/favicons/favicon.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webResources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/irodrig.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/irodrig.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/eu-en.iml" afterPath="$PROJECT_DIR$/.idea/eu-en.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/_notes/dwsync.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api-event-handling.js" afterPath="$PROJECT_DIR$/api-event-handling.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api-play-pause-playto-goto-next-prev-autoplay-append-remove-reload-properties-destroy.js" afterPath="$PROJECT_DIR$/api-play-pause-playto-goto-next-prev-autoplay-append-remove-reload-properties-destroy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component.json" afterPath="$PROJECT_DIR$/component.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/default.htm" afterPath="$PROJECT_DIR$/default.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/gallery/1300x500/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/img/gallery/1300x500/_notes/dwsync.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manifest.json" afterPath="$PROJECT_DIR$/manifest.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/images/logo/LogoVectrorizadoCASTI.svg" afterPath="$PROJECT_DIR$/media/images/logo/LogoVectrorizadoCASTI.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/images/logo/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/media/images/logo/_notes/dwsync.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/js/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/media/js/_notes/dwsync.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/js/blank.html" afterPath="$PROJECT_DIR$/media/js/blank.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/js/c0799c313ee31fd0b589c0bb3b1e338e.js" afterPath="$PROJECT_DIR$/media/js/c0799c313ee31fd0b589c0bb3b1e338e.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/arrow-051.html" afterPath="$PROJECT_DIR$/skin/arrow-051.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/arrow-052.html" afterPath="$PROJECT_DIR$/skin/arrow-052.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/arrow-053.html" afterPath="$PROJECT_DIR$/skin/arrow-053.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/arrow-054.html" afterPath="$PROJECT_DIR$/skin/arrow-054.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/arrow-055.html" afterPath="$PROJECT_DIR$/skin/arrow-055.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/arrow-056.html" afterPath="$PROJECT_DIR$/skin/arrow-056.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/arrow-071.html" afterPath="$PROJECT_DIR$/skin/arrow-071.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/arrow-072.html" afterPath="$PROJECT_DIR$/skin/arrow-072.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/arrow-073.html" afterPath="$PROJECT_DIR$/skin/arrow-073.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/arrow-074.html" afterPath="$PROJECT_DIR$/skin/arrow-074.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/arrow-081.html" afterPath="$PROJECT_DIR$/skin/arrow-081.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/arrow-082.html" afterPath="$PROJECT_DIR$/skin/arrow-082.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/arrow-091.html" afterPath="$PROJECT_DIR$/skin/arrow-091.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/arrow-092.html" afterPath="$PROJECT_DIR$/skin/arrow-092.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/arrow-093.html" afterPath="$PROJECT_DIR$/skin/arrow-093.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/arrow-094.html" afterPath="$PROJECT_DIR$/skin/arrow-094.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/bullet-031.html" afterPath="$PROJECT_DIR$/skin/bullet-031.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/bullet-032.html" afterPath="$PROJECT_DIR$/skin/bullet-032.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/bullet-033.html" afterPath="$PROJECT_DIR$/skin/bullet-033.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/bullet-034.html" afterPath="$PROJECT_DIR$/skin/bullet-034.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/bullet-035.html" afterPath="$PROJECT_DIR$/skin/bullet-035.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/bullet-036.html" afterPath="$PROJECT_DIR$/skin/bullet-036.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/bullet-051.html" afterPath="$PROJECT_DIR$/skin/bullet-051.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/bullet-052.html" afterPath="$PROJECT_DIR$/skin/bullet-052.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/bullet-053.html" afterPath="$PROJECT_DIR$/skin/bullet-053.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/bullet-054.html" afterPath="$PROJECT_DIR$/skin/bullet-054.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/bullet-055.html" afterPath="$PROJECT_DIR$/skin/bullet-055.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/bullet-056.html" afterPath="$PROJECT_DIR$/skin/bullet-056.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/bullet-057.html" afterPath="$PROJECT_DIR$/skin/bullet-057.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/bullet-058.html" afterPath="$PROJECT_DIR$/skin/bullet-058.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/bullet-061.html" afterPath="$PROJECT_DIR$/skin/bullet-061.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/bullet-062.html" afterPath="$PROJECT_DIR$/skin/bullet-062.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/bullet-063.html" afterPath="$PROJECT_DIR$/skin/bullet-063.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/bullet-064.html" afterPath="$PROJECT_DIR$/skin/bullet-064.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/bullet-071.html" afterPath="$PROJECT_DIR$/skin/bullet-071.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/bullet-072.html" afterPath="$PROJECT_DIR$/skin/bullet-072.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/icons/arrow.svg" afterPath="$PROJECT_DIR$/skin/frontend/icons/arrow.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/icons/css/5d7d3fc54fcaa06b219d48d650f88ecc.css" afterPath="$PROJECT_DIR$/skin/frontend/icons/css/5d7d3fc54fcaa06b219d48d650f88ecc.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/icons/css/icons.data.svg.css" afterPath="$PROJECT_DIR$/skin/frontend/icons/css/icons.data.svg.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/skin/frontend/images/favicons/_notes/dwsync.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/images/favicons/manifest.json" afterPath="$PROJECT_DIR$/skin/frontend/images/favicons/manifest.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/site/css/4c548d7aa62575e7e0d8980e2381d2ca.css" afterPath="$PROJECT_DIR$/skin/frontend/site/css/4c548d7aa62575e7e0d8980e2381d2ca.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/site/css/5d7d3fc54fcaa06b219d48d650f88ecc.css" afterPath="$PROJECT_DIR$/skin/frontend/site/css/5d7d3fc54fcaa06b219d48d650f88ecc.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/site/css/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/skin/frontend/site/css/_notes/dwsync.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/loading-003-oval.html" afterPath="$PROJECT_DIR$/skin/loading-003-oval.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/loading-004-double-tail-spin.html" afterPath="$PROJECT_DIR$/skin/loading-004-double-tail-spin.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/loading-005-circles.html" afterPath="$PROJECT_DIR$/skin/loading-005-circles.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/loading-006-tail-spin.html" afterPath="$PROJECT_DIR$/skin/loading-006-tail-spin.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/loading-008-ball-triangle.html" afterPath="$PROJECT_DIR$/skin/loading-008-ball-triangle.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/loading-009-spin.html" afterPath="$PROJECT_DIR$/skin/loading-009-spin.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/thumbnail-051.html" afterPath="$PROJECT_DIR$/skin/thumbnail-051.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/thumbnail-052.html" afterPath="$PROJECT_DIR$/skin/thumbnail-052.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/thumbnail-061.html" afterPath="$PROJECT_DIR$/skin/thumbnail-061.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/thumbnail-062.html" afterPath="$PROJECT_DIR$/skin/thumbnail-062.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/thumbnail-091.html" afterPath="$PROJECT_DIR$/skin/thumbnail-091.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/thumbnail-092.html" afterPath="$PROJECT_DIR$/skin/thumbnail-092.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/transitions/slideshow-transitions(360).html" afterPath="$PROJECT_DIR$/transitions/slideshow-transitions(360).html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/castioficial.cloudfront.net/EnConstruccion/js/main.js" afterPath="$PROJECT_DIR$/castioficial.cloudfront.net/EnConstruccion/js/main.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -429,41 +38,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="cat_coffebox.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/Productos/cat_coffebox.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7854">
-              <caret line="374" column="26" lean-forward="false" selection-start-line="374" selection-start-column="26" selection-end-line="374" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="c0799c313ee31fd0b589c0bb3b1e338e.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/media/js/c0799c313ee31fd0b589c0bb3b1e338e.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376824">
-              <caret line="17944" column="17" lean-forward="false" selection-start-line="17944" selection-start-column="17" selection-end-line="17944" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="icons.data.png.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/skin/frontend/icons/css/icons.data.png.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-42">
+            <state relative-caret-position="0">
               <caret line="0" column="1877" lean-forward="false" selection-start-line="0" selection-start-column="1877" selection-end-line="0" selection-end-column="1877" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.htm" pinned="false" current-in-tab="true">
+      <file leaf-file-name="default.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/default.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+            <state relative-caret-position="252">
+              <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
               <folding>
                 <marker date="1543692875945" expanded="true" signature="5670:5675" ph="..." />
                 <marker date="1543692875945" expanded="true" signature="6683:6816" ph="..." />
@@ -472,45 +61,79 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="icons.data.svg.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/skin/frontend/icons/css/icons.data.svg.css">
+      <file leaf-file-name="cat_top.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/Productos/cat_top.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6216">
-              <caret line="296" column="622" lean-forward="false" selection-start-line="296" selection-start-column="622" selection-end-line="296" selection-end-column="622" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cat_dress.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/Productos/cat_dress.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7854">
-              <caret line="374" column="26" lean-forward="false" selection-start-line="374" selection-start-column="26" selection-end-line="374" selection-end-column="26" />
+            <state relative-caret-position="-16464">
+              <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
               <folding>
-                <element signature="n#div#2;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <marker date="1537095419961" expanded="true" signature="5597:5602" ph="..." />
+                <marker date="1537095419961" expanded="true" signature="6610:6743" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cat_newarrivals.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/Productos/cat_newarrivals.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/EnConstruccion/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7854">
-              <caret line="374" column="26" lean-forward="false" selection-start-line="374" selection-start-column="26" selection-end-line="374" selection-end-column="26" />
+            <state relative-caret-position="210">
+              <caret line="127" column="13" lean-forward="false" selection-start-line="127" selection-start-column="13" selection-end-line="127" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cat_pants.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/Productos/cat_pants.html">
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/EnConstruccion/readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7854">
-              <caret line="374" column="26" lean-forward="false" selection-start-line="374" selection-start-column="26" selection-end-line="374" selection-end-column="26" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/EnConstruccion/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-60">
+              <caret line="44" column="26" lean-forward="true" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plugins.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/EnConstruccion/js/plugins.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-10534">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="n#div#2;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#15667#15806#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.countdown.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/EnConstruccion/js/jquery.countdown.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="134" column="42" lean-forward="false" selection-start-line="134" selection-start-column="42" selection-end-line="134" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/EnConstruccion/js/jquery.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1008">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -542,7 +165,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>face</find>
       <find>acount</find>
       <find>checkout-onepage-success</find>
       <find>icon-black</find>
@@ -572,6 +194,7 @@
       <find>contact</find>
       <find>icon</find>
       <find>search</find>
+      <find>construccion</find>
     </findStrings>
     <replaceStrings>
       <replace>const</replace>
@@ -614,7 +237,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/castioficial.cloudfront.net/Productos/coffebox.html" />
         <option value="$PROJECT_DIR$/castioficial.cloudfront.net/Productos/new_arrivals.html" />
         <option value="$PROJECT_DIR$/castioficial.cloudfront.net/Productos/t-shirt.html" />
         <option value="$PROJECT_DIR$/castioficial.cloudfront.net/Productos/shirt.html" />
@@ -636,7 +258,6 @@
         <option value="$PROJECT_DIR$/castioficial.cloudfront.net/cfcfrontend/popup/newsletter/default.php" />
         <option value="$PROJECT_DIR$/skin/frontend/site/css/5d7d3fc54fcaa06b219d48d650f88ecc.css" />
         <option value="$PROJECT_DIR$/castioficial.cloudfront.net/cfcfrontend/popup/newsletter/default.htm" />
-        <option value="$PROJECT_DIR$/castioficial.cloudfront.net/EnConstruccion/js/main.js" />
         <option value="$PROJECT_DIR$/castioficial.cloudfront.net/EnConstruccion/index.html" />
         <option value="$PROJECT_DIR$/contacts.html" />
         <option value="$PROJECT_DIR$/skin/frontend/site/css/_notes/style.css" />
@@ -665,6 +286,8 @@
         <option value="$PROJECT_DIR$/media/js/c0799c313ee31fd0b589c0bb3b1e338e.js" />
         <option value="$PROJECT_DIR$/skin/frontend/icons/css/icons.data.svg.css" />
         <option value="$PROJECT_DIR$/default.htm" />
+        <option value="$PROJECT_DIR$/castioficial.cloudfront.net/EnConstruccion/js/main.js" />
+        <option value="$PROJECT_DIR$/castioficial.cloudfront.net/EnConstruccion/js/jquery.countdown.min.js" />
       </list>
     </option>
   </component>
@@ -735,6 +358,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -748,9 +372,80 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eu-en" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eu-en" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="castioficial.cloudfront.net" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eu-en" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eu-en" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="castioficial.cloudfront.net" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Productos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eu-en" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eu-en" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="castioficial.cloudfront.net" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EnConstruccion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eu-en" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eu-en" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="castioficial.cloudfront.net" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EnConstruccion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -776,19 +471,19 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\wamp64\www\castioficialVer1.1.com\eu-en\castioficial.cloudfront.net\Productos\img\logo" />
-      <recent name="C:\wamp64\www\castioficialVer1.1.com\eu-en\castioficial.cloudfront.net\Productos\img\Logo" />
-      <recent name="C:\wamp64\www\castioficialVer1.1.com\eu-en\castioficial.cloudfront.net\Productos\img\gallery" />
-      <recent name="C:\wamp64\www\castioficialVer1.1.com\eu-en\castioficial.cloudfront.net\Productos\img\crop" />
-      <recent name="C:\wamp64\www\castioficialVer1.1.com\eu-en\castioficial.cloudfront.net\Productos\img\icons" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\wamp64\www\castioficialVer1.1.com\eu-en\castioficial.cloudfront.net\cfcfrontend\popup\newsletter" />
       <recent name="C:\wamp64\www\media\js" />
       <recent name="C:\wamp64\www\castioficialVer1.1.com\eu-en\media\js" />
       <recent name="C:\wamp64\www\castioficialVer1.1.com\eu-en\castioficial.cloudfront.net\skin\frontend" />
       <recent name="C:\wamp64\www\castioficialVer1.1.com\eu-en\castioficial.cloudfront.net" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\castioficialVer1.1.com\eu-en\castioficial.cloudfront.net\EnConstruccion\js" />
+      <recent name="C:\wamp64\www\castioficialVer1.1.com\eu-en\castioficial.cloudfront.net\Productos\img\logo" />
+      <recent name="C:\wamp64\www\castioficialVer1.1.com\eu-en\castioficial.cloudfront.net\Productos\img\Logo" />
+      <recent name="C:\wamp64\www\castioficialVer1.1.com\eu-en\castioficial.cloudfront.net\Productos\img\gallery" />
+      <recent name="C:\wamp64\www\castioficialVer1.1.com\eu-en\castioficial.cloudfront.net\Productos\img\crop" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -803,8 +498,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.main.js">
     <configuration default="false" name="c0799c313ee31fd0b589c0bb3b1e338e.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="c0799c313ee31fd0b589c0bb3b1e338e.js" working-dir="$PROJECT_DIR$/media/js">
+      <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
+        <option name="envVars">
+          <list />
+        </option>
+        <option name="extraHosts">
+          <list />
+        </option>
+        <option name="links">
+          <list />
+        </option>
+        <option name="networkDisabled" value="false" />
+        <option name="networkMode" value="bridge" />
+        <option name="portBindings">
+          <list />
+        </option>
+        <option name="publishAllPorts" value="false" />
+        <option name="version" value="1" />
+        <option name="volumeBindings">
+          <list />
+        </option>
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="main.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/castioficial.cloudfront.net/EnConstruccion/js">
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
           <list />
@@ -950,14 +669,16 @@
       </EXTENSION>
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.default.htm" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.jssor.slider.min.js" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.c0799c313ee31fd0b589c0bb3b1e338e.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.main.js" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.c0799c313ee31fd0b589c0bb3b1e338e.js" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.main.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.c0799c313ee31fd0b589c0bb3b1e338e.js" />
       </list>
     </recent_temporary>
   </component>
@@ -1011,11 +732,12 @@
       <workItem from="1543690222834" duration="124000" />
       <workItem from="1543690472867" duration="96000" />
       <workItem from="1543690582154" duration="2392000" />
+      <workItem from="1543698296032" duration="4072000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="372850000" />
+    <option name="totallyTimeSpent" value="376922000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -1031,17 +753,18 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08035714" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08035714" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18313642" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1858217" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39955357" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1139,34 +862,11 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
+      <option name="time" value="1" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/Productos/cat_coffebox.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7854">
-          <caret line="374" column="26" lean-forward="false" selection-start-line="374" selection-start-column="26" selection-end-line="374" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/media/js/c0799c313ee31fd0b589c0bb3b1e338e.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376824">
-          <caret line="17944" column="17" lean-forward="false" selection-start-line="17944" selection-start-column="17" selection-end-line="17944" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skin/frontend/icons/css/icons.data.svg.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6216">
-          <caret line="296" column="622" lean-forward="false" selection-start-line="296" selection-start-column="622" selection-end-line="296" selection-end-column="622" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/Productos/cat_dress.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7854">
@@ -1259,27 +959,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396207">
           <caret line="18869" column="22" lean-forward="false" selection-start-line="18869" selection-start-column="22" selection-end-line="18869" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/EnConstruccion/js/jquery.countdown.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="32" column="27" lean-forward="false" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/EnConstruccion/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1239">
-          <caret line="59" column="27" lean-forward="false" selection-start-line="59" selection-start-column="27" selection-end-line="59" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/EnConstruccion/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -1424,13 +1103,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/Productos/cat_top.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="373" column="28" lean-forward="false" selection-start-line="373" selection-start-column="28" selection-end-line="373" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/Productos/cat_skirt.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="218">
@@ -1509,20 +1181,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/skin/frontend/icons/css/icons.data.png.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-42">
+        <state relative-caret-position="0">
           <caret line="0" column="1877" lean-forward="false" selection-start-line="0" selection-start-column="1877" selection-end-line="0" selection-end-column="1877" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/Productos/cat_top.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16464">
+          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <folding>
+            <marker date="1537095419961" expanded="true" signature="5597:5602" ph="..." />
+            <marker date="1537095419961" expanded="true" signature="6610:6743" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/default.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+        <state relative-caret-position="252">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
           <folding>
             <marker date="1543692875945" expanded="true" signature="5670:5675" ph="..." />
             <marker date="1543692875945" expanded="true" signature="6683:6816" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/EnConstruccion/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/EnConstruccion/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="127" column="13" lean-forward="false" selection-start-line="127" selection-start-column="13" selection-end-line="127" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/EnConstruccion/js/plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10534">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#15667#15806#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/EnConstruccion/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1008">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/EnConstruccion/js/jquery.countdown.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="134" column="42" lean-forward="false" selection-start-line="134" selection-start-column="42" selection-end-line="134" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castioficial.cloudfront.net/EnConstruccion/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="44" column="26" lean-forward="true" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
