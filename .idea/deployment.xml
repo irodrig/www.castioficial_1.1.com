@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="ftp.castioficial.com">
+  <component name="PublishConfigData" serverName="ftp.castioficial.com" uploadOnCheckin="4d8f1e28-9efc-4518-b233-b495ef161fdc">
     <serverData>
       <paths name="ftp.castioficial.com">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="ftp.castioficial.com" />
   </component>
 </project>
